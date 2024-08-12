@@ -1,0 +1,195 @@
+{
+  "version": "1.0",
+  "date": "2024-05-20T05:28:49.632830655Z",
+  "hashAlgorithm": "SHA-256",
+  "app": {
+    "id": 4460,
+    "version": "1.4.1",
+    "files": [
+      {
+        "path": "app.manifest",
+        "hash": "515d3f679a9c31ac9adebfdded414b8ae238d5bbb54693bc24c9212adccf728b"
+      },
+      {
+        "path": "lookups/sample-data.csv",
+        "hash": "6bf6af428e070bae60e60d0bf0c4683b9322b8a762481003d1448dd0790993c0"
+      },
+      {
+        "path": "metadata/default.meta",
+        "hash": "05c118381a9c348a87c10c91938d87c774cd158804f902af5f20489e60d938c8"
+      },
+      {
+        "path": "appserver/static/token-via-links.js",
+        "hash": "82cd73d6af298689a1d1a1a5937c0fe8f84b83831fbad116a6de4f29a7cdf190"
+      },
+      {
+        "path": "appserver/static/settings.css",
+        "hash": "7fd53fd937e41f99b6eb11d572c2e6d8cc740b02684bb0f220ffeb63808edbf3"
+      },
+      {
+        "path": "appserver/static/visualizations/heat-map-viz/README.md",
+        "hash": "dde52c47854b2f29014c3cd621829ccc81284475e7d81693dbf687bd948eaaec"
+      },
+      {
+        "path": "appserver/static/visualizations/heat-map-viz/visualization.css",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "appserver/static/visualizations/heat-map-viz/preview.png",
+        "hash": "fd3f98a16360d7e43a82a294cb76c482ed6e128d7662423ba2d7f6b6c64f3038"
+      },
+      {
+        "path": "appserver/static/visualizations/heat-map-viz/formatter.html",
+        "hash": "5310d067be1a3ec44def5b3a666ede5510fa795c469ef9d2b4647f5f47833ee2"
+      },
+      {
+        "path": "appserver/static/visualizations/heat-map-viz/visualization.js",
+        "hash": "efc69427ceb54ea51a24de8cd2449cc9d546f9585cdfd1f63b2e0c5457d443d7"
+      },
+      {
+        "path": "appserver/static/images/options-legend.png",
+        "hash": "b7586f45fd9db38c3aa0a4e3b43b16d493d6ede3f03d9217b9eecdff06c0223b"
+      },
+      {
+        "path": "appserver/static/images/disable-physics.png",
+        "hash": "ef905a55ed7835a8937bb4a665bf7307950b6988ada86a99f0a4c71643d6b585"
+      },
+      {
+        "path": "appserver/static/images/options-colors.png",
+        "hash": "6a34f6314df913530bce0ce3fa584e3af576138f8bb80bcf1fbf481713180acd"
+      },
+      {
+        "path": "appserver/static/images/options-tokens.png",
+        "hash": "e2b90ab92b211952a10a534ba6d0faad84bf6c46bbdeafd698002a8562641fab"
+      },
+      {
+        "path": "appserver/static/images/options-general.png",
+        "hash": "eb7797ce95c9e94ccf5b0c635b99ecd63ba9464d104f89a7d3deba8aa6c10047"
+      },
+      {
+        "path": "README.txt",
+        "hash": "bdb247d808d31529312f02527bff773f28e6577420318fa6237558eecb038ccd"
+      },
+      {
+        "path": "default/visualizations.conf",
+        "hash": "2a6d2a8d5c0a155c5f9eb85ed971b85bc8153777a181fe3a5e52ab347a9d2076"
+      },
+      {
+        "path": "default/app.conf",
+        "hash": "25347cdbdd0e76a158490f3ac4b757c5c2ac095a5394f905d2dc438959d6d0ec"
+      },
+      {
+        "path": "default/data/ui/views/examples.xml",
+        "hash": "6fbe73d8a7c94628f9398cfd4ea011103c74617de6ee1c47a729aa1c72ccb334"
+      },
+      {
+        "path": "default/data/ui/views/heat_map_visualization.xml",
+        "hash": "3fe061afdbbffa0c8f9b6efa9d71813a7b267b878e6d1b18c241fb6e6b5e56c1"
+      },
+      {
+        "path": "default/data/ui/views/settings.xml",
+        "hash": "05c0fad64477cbcb1e819cdcaca64c32f02c5c619142bc1601fd31e542231f6d"
+      },
+      {
+        "path": "default/data/ui/views/dark_theme.xml",
+        "hash": "53b2e746267b2179db8d170800d54f5107a9f1ee36be15a414d291ca21f6edbb"
+      },
+      {
+        "path": "default/data/ui/views/drill_down.xml",
+        "hash": "898bc6418f858d2044bc4cd4f6c41a7a0668750271333b64dac63abdfcf940a8"
+      },
+      {
+        "path": "default/data/ui/nav/default.xml",
+        "hash": "aa9cacfd295f8183a300e5999ea32651007707409ea31c6e72acf7f624047435"
+      },
+      {
+        "path": "default/savedsearches.conf",
+        "hash": "a1d4650b389f05981a6e78e0d224ad63b294a0d3c0017689c5867f84f48b8cff"
+      },
+      {
+        "path": "static/appIconAlt_2x.png",
+        "hash": "d8c8abaa43fe4ddfe11f22f79f2ba0dae5cd9258d7511c47c3b01bb01e8351e7"
+      },
+      {
+        "path": "static/appLogo.png",
+        "hash": "a6389394bf0bec7ab57eede2deada2ea0b6f7a6178ad80b4ee83e3693ada2339"
+      },
+      {
+        "path": "static/appIcon.png",
+        "hash": "d06e2956447e658caeefd63dc57a105c94195ff014b5094cbf42f06488dcb548"
+      },
+      {
+        "path": "static/appIconAlt.png",
+        "hash": "8987aede1f81ca7891f97c7dc538431723908b534518b659866444afe17cacd7"
+      },
+      {
+        "path": "static/appLogo_2x.png",
+        "hash": "ba0f6e865db9fb8447a50729bf4762d1e25d5594276652110970dd98e1ca826f"
+      },
+      {
+        "path": "static/appIcon_2x.png",
+        "hash": "bf5c9ef25d55d78b4ee3ac6d125b1f290e684ae67fa043ec785a4439e2230440"
+      },
+      {
+        "path": "README/savedsearches.conf.spec",
+        "hash": "1d77bc01c196bcc71e254f6d13af002d84b4ef84eb29a43d29353a57dfa33fd9"
+      }
+    ]
+  },
+  "products": [
+    {
+      "platform": "splunk",
+      "product": "enterprise",
+      "versions": [
+        "7.0",
+        "7.1",
+        "7.2",
+        "7.3",
+        "8.0",
+        "8.1",
+        "8.2",
+        "9.0",
+        "9.1",
+        "9.2"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "operatingSystems": [
+        "windows",
+        "linux",
+        "macos",
+        "freebsd",
+        "solaris",
+        "aix"
+      ]
+    },
+    {
+      "platform": "splunk",
+      "product": "cloud",
+      "versions": [
+        "7.0",
+        "7.1",
+        "7.2",
+        "7.3",
+        "8.0",
+        "8.1",
+        "8.2",
+        "9.0",
+        "9.1",
+        "9.2"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "operatingSystems": [
+        "windows",
+        "linux",
+        "macos",
+        "freebsd",
+        "solaris",
+        "aix"
+      ]
+    }
+  ]
+}
